@@ -60,13 +60,13 @@ The final design combines a spacious editorial layout, soft natural colors, inte
 ### Mobile Experience
 
 <p align="center">
-  <img src="./public/readme/mobile-home.png" alt="Mobile view of Dr. Maya Reynolds Therapy website" width="380" />
+  <img src="" alt="Mobile view of Dr. Maya Reynolds Therapy website" width="380" />
 </p>
 
 ### Our Office
 
 <p align="center">
-  <img src="./public/readme/office-section.png" alt="Our Office section of Dr. Maya Reynolds Therapy website" width="900" />
+  <img src="https://github.com/Kamleshpawar2704/maya-reynolds-therapy-website/blob/main/GrowMyTherapy-README-Package/public/readme/office-section.png" alt="Our Office section of Dr. Maya Reynolds Therapy website" width="900" />
 </p>
 
 ---
