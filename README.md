@@ -13,7 +13,7 @@
 <br />
 
 <p align="center">
-  <img src="./public/readme/desktop-home.png" alt="Dr. Maya Reynolds Therapy Website - Desktop Homepage" width="900" />
+  <img src="https://github.com/Kamleshpawar2704/maya-reynolds-therapy-website/blob/main/GrowMyTherapy-README-Package/public/readme/desktop-home.png" alt="Dr. Maya Reynolds Therapy Website - Desktop Homepage" width="900" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ The final design combines a spacious editorial layout, soft natural colors, inte
 ### Desktop Experience
 
 <p align="center">
-  <img src="./public/readme/desktop-home.png" alt="Desktop view of Dr. Maya Reynolds Therapy website" width="900" />
+  <img src="https://github.com/Kamleshpawar2704/maya-reynolds-therapy-website/blob/main/GrowMyTherapy-README-Package/public/readme/desktop-home.png" alt="Desktop view of Dr. Maya Reynolds Therapy website" width="900" />
 </p>
 
 ### Mobile Experience
