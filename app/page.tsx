@@ -4,9 +4,9 @@ import Header from './components/Header';
 
 const images = {
   hero: '/images/Dr. Maya Reynolds.png',
-  intro: '/images/Intro.jpg',
+  intro: '/images/intro.jpg',
   anxiety: '/images/Anxiety.jpg',
-  trauma: '/images/Trauma.jpg',
+  trauma: '/images/trauma.jpg',
   burnout: '/images/Burnout.jpg',
   office1: '/images/office1.jpeg',
   office2: '/images/office2.jpeg',
